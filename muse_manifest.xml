@@ -1,0 +1,208 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="osarang_.com" resolutions="1x" timestamp="1559858532389">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-___.css" crc="154323569" ref="natural:middle:llong:layered:bald-headed:short:rupple-cut:wave:index:long:bang:shorts:bbang"/>
+    <file name="natural.css" crc="3928182566" ref="natural"/>
+    <file name="middle.css" crc="40846132" ref="middle"/>
+    <file name="llong.css" crc="182248606" ref="llong"/>
+    <file name="layered.css" crc="235569203" ref="layered"/>
+    <file name="bald-headed.css" crc="3944980727" ref="bald-headed"/>
+    <file name="short.css" crc="261161288" ref="short"/>
+    <file name="rupple-cut.css" crc="232853131" ref="rupple-cut"/>
+    <file name="wave.css" crc="195588103" ref="wave"/>
+    <file name="index.css" crc="3871134952" ref="index"/>
+    <file name="long.css" crc="135441146" ref="long"/>
+    <file name="bang.css" crc="4208019861" ref="bang"/>
+    <file name="shorts.css" crc="223680835" ref="shorts"/>
+    <file name="bbang.css" crc="211679310" ref="bbang"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+    <file name="museutils.js" crc="340535759" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+    <file name="whatinput.js" crc="86476730" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+    <file name="museconfig.js" crc="310584261" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+    <file name="require.js" crc="7928878" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+  </folder>
+  <folder name="images">
+    <file name="u1014-4.png" crc="43008893" ref="index:shorts:long:wave:bang:natural:rupple-cut:layered:bald-headed:bbang:middle:short:llong"/>
+    <file name="27b9f12b73150f8c1470a9d1a5b65517.jpg" crc="529193119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="64c8cb8f372ff86beef7f35e77035732.jpg" crc="3934513126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1723-4.png" crc="3829835063" ref="index"/>
+    <file name="u1728-4.png" crc="3777324805" ref="index"/>
+    <file name="a484ef6641a8f53a01b1f39fcc42df2d.jpg" crc="3974602577" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1720-4.png" crc="66837482" ref="index"/>
+    <file name="u1108-4.png" crc="4274368819" ref="shorts"/>
+    <file name="u1124-8.png" crc="204749372" ref="shorts"/>
+    <file name="u1145-7.png" crc="4198473170" ref="shorts"/>
+    <file name="u1150-8.png" crc="416765069" ref="shorts"/>
+    <file name="u1198-4.png" crc="471289509" ref="shorts"/>
+    <file name="u1208-4.png" crc="4248388660" ref="shorts"/>
+    <file name="2542d34f576a573f2a.jpg" crc="11838408" seo="true" ref="shorts">
+      <caption webpage="shorts" alt=""/>
+    </file>
+    <file name="f92c0ec45fbb406ed2c928da33d19d5f-crop-u1810.jpg" crc="3840425981" seo="true" ref="shorts">
+      <caption webpage="shorts" alt=""/>
+    </file>
+    <file name="b37657e7a1a7dbadec231f07ba06b8bb-crop-u1820.jpg" crc="4074928549" seo="true" ref="shorts">
+      <caption webpage="shorts" alt=""/>
+    </file>
+    <file name="u1203-4.png" crc="3762191348" ref="shorts"/>
+    <file name="u1238-4.png" crc="3759324551" ref="long"/>
+    <file name="u1242-8.png" crc="204749372" ref="long"/>
+    <file name="u1243-7.png" crc="4198473170" ref="long"/>
+    <file name="u1244-8.png" crc="416765069" ref="long"/>
+    <file name="791872ce12ef97cdc459c37e9a2413e1-crop-u1754.jpg" crc="468656929" seo="true" ref="long">
+      <caption webpage="long" alt=""/>
+    </file>
+    <file name="u1340-4.png" crc="4035100742" ref="long"/>
+    <file name="u1349-4.png" crc="510516622" ref="long"/>
+    <file name="u1343-4.png" crc="193367739" ref="long"/>
+    <file name="1f42ddc48adab607ec1b8cfd47aa21f9-crop-u1744.jpg" crc="3905101798" seo="true" ref="long">
+      <caption webpage="long" alt=""/>
+    </file>
+    <file name="4459b8beaf0701486e5847ed238c6b7a-crop-u1790.jpg" crc="4202566707" seo="true" ref="long">
+      <caption webpage="long" alt=""/>
+    </file>
+    <file name="u1353-4.png" crc="313737380" ref="wave"/>
+    <file name="u1357-8.png" crc="204749372" ref="wave"/>
+    <file name="u1358-7.png" crc="4198473170" ref="wave"/>
+    <file name="u1359-8.png" crc="416765069" ref="wave"/>
+    <file name="u1437-4.png" crc="66837482" ref="wave"/>
+    <file name="u1434-4.png" crc="3953174312" ref="wave"/>
+    <file name="u1440-4.png" crc="3829835063" ref="wave"/>
+    <file name="537c852522d548d9fb7427e3464c2209.jpg" crc="228207701" seo="true" ref="wave">
+      <caption webpage="wave" alt=""/>
+    </file>
+    <file name="592b096082e4e937d7d8e8b91d168215-crop-u1846.jpg" crc="3880193831" seo="true" ref="wave">
+      <caption webpage="wave" alt=""/>
+    </file>
+    <file name="5968be201431283bfe71833702f57636-crop-u1856.jpg" crc="355100274" seo="true" ref="wave">
+      <caption webpage="wave" alt=""/>
+    </file>
+    <file name="u1964-4.png" crc="279589540" ref="bang"/>
+    <file name="u1968-8.png" crc="204749372" ref="bang"/>
+    <file name="u1969-7.png" crc="4198473170" ref="bang"/>
+    <file name="u1970-8.png" crc="416765069" ref="bang"/>
+    <file name="1oingngey4_1-crop-u2372.jpg" crc="352369158" seo="true" ref="bang">
+      <caption webpage="bang" alt=""/>
+    </file>
+    <file name="u2402-21.png" crc="183295900" ref="bang"/>
+    <file name="u2407-4.png" crc="4023414805" ref="bang"/>
+    <file name="224b0e37576a162920-crop-u2382.jpg" crc="90439290" seo="true" ref="bang">
+      <caption webpage="bang" alt=""/>
+    </file>
+    <file name="u2430-27.png" crc="4214525806" ref="bang"/>
+    <file name="u2412-4.png" crc="4023414805" ref="bang"/>
+    <file name="37800605_213749872817272_6979635487396855808_n-crop-u2392.jpg" crc="4070755224" seo="true" ref="bang">
+      <caption webpage="bang" alt=""/>
+    </file>
+    <file name="u2445-22.png" crc="486113601" ref="bang"/>
+    <file name="u2427-4.png" crc="4023414805" ref="bang"/>
+    <file name="u2012-4.png" crc="377005611" ref="natural"/>
+    <file name="u2016-8.png" crc="204749372" ref="natural"/>
+    <file name="u2017-7.png" crc="4198473170" ref="natural"/>
+    <file name="u2018-8.png" crc="416765069" ref="natural"/>
+    <file name="766248dbe5a448a2a330bb596ca864c5-crop-u2500.jpg" crc="24364934" seo="true" ref="natural">
+      <caption webpage="natural" alt=""/>
+    </file>
+    <file name="u2539-4.png" crc="254919440" ref="natural"/>
+    <file name="56757842_1727695397376103_2362116815912112846_n-crop-u2510.jpg" crc="4112234400" seo="true" ref="natural">
+      <caption webpage="natural" alt=""/>
+    </file>
+    <file name="u2554-4.png" crc="254919440" ref="natural"/>
+    <file name="u2530-15.png" crc="31951944" ref="natural"/>
+    <file name="67dd4dc03f5a72fb-crop-u2520.jpg" crc="3811624184" seo="true" ref="natural">
+      <caption webpage="natural" alt=""/>
+    </file>
+    <file name="u2551-4.png" crc="254919440" ref="natural"/>
+    <file name="u1988-4.png" crc="465892921" ref="rupple-cut"/>
+    <file name="u1992-8.png" crc="204749372" ref="rupple-cut"/>
+    <file name="u1993-7.png" crc="4198473170" ref="rupple-cut"/>
+    <file name="u1994-8.png" crc="416765069" ref="rupple-cut"/>
+    <file name="59315584_293954161552940_1575696908930387243_n-crop-u2461.jpg" crc="4022152355" seo="true" ref="rupple-cut">
+      <caption webpage="rupple-cut" alt=""/>
+    </file>
+    <file name="u2451-4.png" crc="4253609998" ref="rupple-cut"/>
+    <file name="59938927_287896548623298_6753614755122795870_n-crop-u2471.jpg" crc="3891392539" seo="true" ref="rupple-cut">
+      <caption webpage="rupple-cut" alt=""/>
+    </file>
+    <file name="u2450-17.png" crc="4192208015" ref="rupple-cut"/>
+    <file name="u2491-4.png" crc="4253609998" ref="rupple-cut"/>
+    <file name="50919748_414544085970620_332902253615501346_n-crop-u2714.jpg" crc="4067980432" seo="true" ref="rupple-cut">
+      <caption webpage="rupple-cut" alt=""/>
+    </file>
+    <file name="u2494-4.png" crc="4253609998" ref="rupple-cut"/>
+    <file name="u2039-4.png" crc="513873061" ref="layered"/>
+    <file name="u2043-8.png" crc="204749372" ref="layered"/>
+    <file name="u2044-7.png" crc="4198473170" ref="layered"/>
+    <file name="u2045-8.png" crc="416765069" ref="layered"/>
+    <file name="58917182_2279377539002547_1994953998226959434_n-crop-u2560.jpg" crc="211502222" seo="true" ref="layered">
+      <caption webpage="layered" alt=""/>
+    </file>
+    <file name="u2595-4.png" crc="445342981" ref="layered"/>
+    <file name="46429941_327380251413779_1949676387783792187_n-crop-u2798.jpg" crc="3975308175" seo="true" ref="layered">
+      <caption webpage="layered" alt=""/>
+    </file>
+    <file name="u2604-4.png" crc="445342981" ref="layered"/>
+    <file name="u2592-15.png" crc="4018833016" ref="layered"/>
+    <file name="61674201_145628336602153_8552313648218100894_n-crop-u2684.jpg" crc="509286794" seo="true" ref="layered">
+      <caption webpage="layered" alt=""/>
+    </file>
+    <file name="u2607-4.png" crc="445342981" ref="layered"/>
+    <file name="u2087-4.png" crc="202404771" ref="bald-headed"/>
+    <file name="u2091-8.png" crc="204749372" ref="bald-headed"/>
+    <file name="u2092-7.png" crc="4198473170" ref="bald-headed"/>
+    <file name="u2093-8.png" crc="416765069" ref="bald-headed"/>
+    <file name="u2063-4.png" crc="3977902996" ref="bbang"/>
+    <file name="u2067-8.png" crc="204749372" ref="bbang"/>
+    <file name="u2068-7.png" crc="4198473170" ref="bbang"/>
+    <file name="u2069-8.png" crc="416765069" ref="bbang"/>
+    <file name="u2646-4.png" crc="4271429404" ref="bbang"/>
+    <file name="u2655-15.png" crc="4182044062" ref="bbang"/>
+    <file name="60939404_1575038462627116_5213167615403738589_n-crop-u2748.jpg" crc="4042604432" seo="true" ref="bbang">
+      <caption webpage="bbang" alt=""/>
+    </file>
+    <file name="u2649-4.png" crc="4050735927" ref="bbang"/>
+    <file name="u2670-17.png" crc="4102997861" ref="bbang"/>
+    <file name="u2652-4.png" crc="285059873" ref="bbang"/>
+    <file name="u2673-19.png" crc="4183872484" ref="bbang"/>
+    <file name="57029188_388607591993272_3996995546252626080_n-crop-u2610.jpg" crc="84218035" seo="true" ref="bbang">
+      <caption webpage="bbang" alt=""/>
+    </file>
+    <file name="51279173_611733399249419_4087449194863752277_n-crop-u2630.jpg" crc="3862007325" seo="true" ref="bbang">
+      <caption webpage="bbang" alt=""/>
+    </file>
+    <file name="u2111-4.png" crc="4123568879" ref="middle"/>
+    <file name="u2115-8.png" crc="204749372" ref="middle"/>
+    <file name="u2116-7.png" crc="4198473170" ref="middle"/>
+    <file name="u2117-8.png" crc="416765069" ref="middle"/>
+    <file name="u2135-4.png" crc="4125002881" ref="short"/>
+    <file name="u2139-8.png" crc="204749372" ref="short"/>
+    <file name="u2140-7.png" crc="4198473170" ref="short"/>
+    <file name="u2141-8.png" crc="416765069" ref="short"/>
+    <file name="u2159-4.png" crc="531389028" ref="llong"/>
+    <file name="u2163-8.png" crc="204749372" ref="llong"/>
+    <file name="u2164-7.png" crc="4198473170" ref="llong"/>
+    <file name="u2165-8.png" crc="416765069" ref="llong"/>
+  </folder>
+  <file name="index.html" crc="240872847" seo="true" mt="1559858063085" redirect="true"/>
+  <file name="shorts.html" crc="106050617" seo="true" mt="1559858376435" redirect="true"/>
+  <file name="long.html" crc="3969656406" seo="true" mt="1559858143662" redirect="true"/>
+  <file name="wave.html" crc="3783674979" seo="true" mt="1559858503085" redirect="true"/>
+  <file name="bang.html" crc="457181430" seo="true" mt="1559847762656" redirect="true"/>
+  <file name="natural.html" crc="4119219070" seo="true" mt="1559858391340" redirect="true"/>
+  <file name="rupple-cut.html" crc="3769462658" seo="true" mt="1559857731122" redirect="true"/>
+  <file name="layered.html" crc="322800074" seo="true" mt="1559858258660" redirect="true"/>
+  <file name="bald-headed.html" crc="148818907" seo="true" mt="1559842246722" redirect="true"/>
+  <file name="bbang.html" crc="3847823091" seo="true" mt="1559858143663" redirect="true"/>
+  <file name="middle.html" crc="182380430" seo="true" mt="1559842257164" redirect="true"/>
+  <file name="short.html" crc="252850120" seo="true" mt="1559842262434" redirect="true"/>
+  <file name="llong.html" crc="3786272030" seo="true" mt="1559858503086" redirect="true"/>
+</manifest>
